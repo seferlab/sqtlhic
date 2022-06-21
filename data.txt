@@ -1,0 +1,8 @@
+Hi-C Data
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63525
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92819
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE117582
+https://wangftp.wustl.edu/hubs/johnston_gallo/
+
+Hi-C Tools:
+https://hicexplorer.readthedocs.io/
