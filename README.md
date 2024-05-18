@@ -10,3 +10,5 @@ CancerSplicingQTL database, http://www.cancersplicingqtl-hust.com/
 
 eQTL datasets analyzed during the current study are available in
 PancanQTL database, http://bioinfo.life.hust.edu.cn/PancanQTL/
+
+Python notebooks include the tests for analysis.
